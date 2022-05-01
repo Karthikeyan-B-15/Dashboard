@@ -1,0 +1,40 @@
+.sidemenu{
+    height: 100vh;
+    width:260px;
+    background-color: #04162C;
+    position: fixed;
+    
+}
+.tring-logo{
+    position: relative;
+    top: 35px;
+    left: 40px;
+}
+ul {
+   display: flex;
+   flex-direction: column;
+   position: relative;
+   top:40px;
+   padding: 0;
+
+}
+
+.link{
+    text-decoration: none;
+    color:#969AA1;
+    display: flex;
+    align-items: center;
+    align-content: flex-start;
+    gap: 20px;
+    padding: 20px 40px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;   
+}
+.link:hover{
+    background-color: rgba(255,255,255,0.05);
+    border-left: 4px solid  green;
+}
+.link img{
+    top: 0;
+    left: 0;
+}

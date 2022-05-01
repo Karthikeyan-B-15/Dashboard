@@ -1,0 +1,25 @@
+.proview{
+    height: 405px;
+    width: 688px;
+    background-color: #fff;
+}
+.protop{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 24px;
+    font-family: "Poppins",sans-serif;
+    font-size: 21px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+   
+}
+.proright img{
+    height: 18px;
+    width: 18px;
+}
+.proright{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-family: "Poppins",sans-serif;
+    font-size: 14px;
+}

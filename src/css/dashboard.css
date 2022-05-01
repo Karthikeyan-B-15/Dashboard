@@ -1,0 +1,14 @@
+.dashboard{
+    width: 100%;
+    background-color:  rgba(0,0,0,0.05);
+    margin-left: 260px;
+}
+.dashboard h2{
+  font-family: "Poppins", sans-serif;
+  margin-left: 24px;
+}
+.dashboard-overview{
+    display: flex;
+    gap: 24px;
+    margin: 0 24px;
+}
