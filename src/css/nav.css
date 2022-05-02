@@ -24,7 +24,7 @@
     height: 17px;
     width: 148px;
     color: #939598;
-    font-family: Poppins;
+    font-family: "Poppins",sans-serif;
     font-size: 15px;
     letter-spacing: 0;
     line-height: 18px;
@@ -52,7 +52,6 @@ img{
     align-items: center;
     justify-content: space-between;
     margin: 24px;
-    align-items: center;
     gap: 20px;
   
 }
