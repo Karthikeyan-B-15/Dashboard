@@ -1,4 +1,3 @@
-// import React from 'react'
 import dashboard from '../assets/dashboard.svg';
 import members from '../assets/members.svg';
 import client from '../assets/client.svg';
